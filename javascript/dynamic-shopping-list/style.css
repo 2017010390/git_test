@@ -1,0 +1,11 @@
+li {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+
+  li button {
+    font-size: 12px;
+    margin-left: 20px;
+    padding: 0px 20px;
+    color: #666;
+  }
